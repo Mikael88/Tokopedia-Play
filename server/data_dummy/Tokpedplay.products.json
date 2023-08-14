@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64c22a986f066d832e37b296"
+  },
+  "productID": "Product1",
+  "urlProduct": "https://example.com/product1",
+  "titleProduct": "Product 1",
+  "priceProduct": 19.99,
+  "videoID": "Video1"
+},
+{
+  "_id": {
+    "$oid": "64c22a986f066d832e37b297"
+  },
+  "productID": "Product2",
+  "urlProduct": "https://example.com/product2",
+  "titleProduct": "Product 2",
+  "priceProduct": 29.99,
+  "videoID": "Video2"
+},
+{
+  "_id": {
+    "$oid": "64c22a986f066d832e37b298"
+  },
+  "productID": "Product3",
+  "urlProduct": "https://example.com/product3",
+  "titleProduct": "Product 3",
+  "priceProduct": 14.99,
+  "videoID": "Video3"
+},
+{
+  "_id": {
+    "$oid": "64c22a986f066d832e37b299"
+  },
+  "productID": "Product4",
+  "urlProduct": "https://example.com/product4",
+  "titleProduct": "Product 4",
+  "priceProduct": 39.99,
+  "videoID": "Video4"
+},
+{
+  "_id": {
+    "$oid": "64c22a986f066d832e37b29a"
+  },
+  "productID": "Product5",
+  "urlProduct": "https://example.com/product5",
+  "titleProduct": "Product 5",
+  "priceProduct": 9.99,
+  "videoID": "Video5"
+}]
